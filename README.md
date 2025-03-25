@@ -1,2 +1,3 @@
 # Database-Ecommerce
 Script e diagrama EER da minha base de dados de um Ecommerce. Feito como tarefa de um curso da plataforma DIO.
+No script SQL, primeiro crio a database e depois vou criando as tabelas. A ordem escrita não é necessáriamente a ordem em que elas forma criadas (exemplo: criei a table "entrega" antes da table "pedido", mas a primeira está no final da lista). Depois, faço inserções no banco de dados para conseguir fazer algumas queries e então, no fim do documento, faço as queries, aplicando todos os pontos descritos na tarefa. Tive um pequeno problema com os IDs, já que houveram algumas tables que precisaram de múltiplas tentativas para a inserção dar certo, mas como a base de dados é pequena, preferi deixar os IDs com esse números mais aleatórios.
